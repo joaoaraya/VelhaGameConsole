@@ -8,7 +8,7 @@ Jogo da velha feito no modo console do Windows.
 
 ### Gameplay
 ![Game](https://1.bp.blogspot.com/-eNgTTeNvDKM/XqezOnPMn0I/AAAAAAAA1d4/yimZo6SW1_IEDcPvHBIRR_UO6fOiOzRXACNcBGAsYHQ/s1600/velha2.png)
-> O jogo registra as vitórias de cada jogador.
+> Essa versão do jogo é baseado em números, o jogador deve digitar qual posição quer marcar para dar velha.
 
 ### Vitória
 ![Winner](https://1.bp.blogspot.com/-mSDBPKoKmrU/XqezOvDHD6I/AAAAAAAA1d8/er4Fp-mTvXgKQLyinhnBxESbINbItqVvwCNcBGAsYHQ/s1600/velha3.png)
