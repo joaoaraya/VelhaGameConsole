@@ -1,5 +1,5 @@
 # Velha Game
-Jogo da velha feito no modo console do Windows. 
+Jogo da velha no modo console do Windows. 
 > Para jogar basta navegar até: `6/bin/debug/6.exe`
 
 ### Title Screen
